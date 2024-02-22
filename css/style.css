@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'PoppinsRegu';
+    src:"tipografias/Poppins-Regular.ttf";
+}
+h1{
+    color:rgb(23, 239, 0);
+    text-align: center;
+    
+}
+p{
+    color: white;
+}
+body{
+    font-family: Poppins;
+    background-color: rgb(31, 31,31);
+    margin: 25px;
+}
+img{
+    width: 45%;
+}
